@@ -10,6 +10,8 @@
 # ColoredCLI.js
 A npm package written on node to make your command line colorful
 
+# https://coloredcli.vercel.app/
+
 
 ColoredCLI is a Node.js package designed to enhance the appearance of text on the command line by adding colors and styles. This package provides easy-to-use functions for applying various colors, background colors, and styles to your text output.
 
